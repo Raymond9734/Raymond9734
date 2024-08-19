@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Raymond9734
 - 👀 I’m interested in ...software engineering
-- 🌱 I’m currently learning ...Javascript and Htmle
+- 🌱 I’m currently learning ...Javascript and Html
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...my Gmail is rymadara9734@gmail.com
 
