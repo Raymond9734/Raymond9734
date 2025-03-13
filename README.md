@@ -6,6 +6,7 @@
 <a href="https://www.linkedin.com/in/raymond-caleb-6588a9266/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
+
 <a href="https://x.com/RayMadara2" target="_blank">
   <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X">
 </a>
